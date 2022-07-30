@@ -21,3 +21,5 @@ If you use this corpus, please cite this paper:
 Contact: sbowman@stanford.edu
 
 and please also include the URL to the repository for SNLI-bratwurst. (This GitHub Repository.)
+
+By Liam Hornschild-Bear.
